@@ -157,6 +157,6 @@ In you're DemoApplication class, paste this method, which will import some simpl
 
 ## Step 8: Test that the app can run (with data)
 - Run the app.
-- Goto http://8080/api/v1/orders
-- Goto http://8080/api/v1/orderlines
-- Goto http://8080/api/v1/products
+- Goto http://localhost:8080/api/v1/orders
+- Goto http://localhost:8080/api/v1/orderlines
+- Goto http://localhost:8080/api/v1/products
