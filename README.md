@@ -105,9 +105,9 @@ When you're done with every of the Java files above, there shold be no errors.
 
 ## Step 6: Test that the app can run (with no data)
 - Run the app.
-- Goto http://8080/api/v1/orders
-- Goto http://8080/api/v1/orderlines
-- Goto http://8080/api/v1/products
+- Goto http://localhost:8080/api/v1/orders
+- Goto http://localhost:8080/api/v1/orderlines
+- Goto http://localhost:8080/api/v1/products
 
 If you get [] on all end ponts, you've successfully create you're first Spring Boot JPS/REST app. Congratulations!
 
